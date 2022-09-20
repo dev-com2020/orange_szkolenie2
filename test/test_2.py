@@ -1,0 +1,1 @@
+wynik = print("Sprawdzamy")
