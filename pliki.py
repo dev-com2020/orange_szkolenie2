@@ -12,7 +12,7 @@ print(zbior)
 # plik.write(str(zbior))
 
 for i in zbior:
-    plik.write(i)
-    plik.write("\n")
+    plik.write(i + '\n')
+    # plik.write("\n")
 
 plik.close()
