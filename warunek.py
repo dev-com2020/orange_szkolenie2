@@ -14,6 +14,7 @@ elif 19 < wiek < 100:
 else:
     print("masz powyżej 100 lat!")
 
+input("Aby zakończyć, wciśnij ENTER")
 
 
 
